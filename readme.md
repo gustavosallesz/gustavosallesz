@@ -1,10 +1,12 @@
 # Olá! 👋 Eu sou o Luiz Gustavo
 
 ## 🖥️ Sobre Mim
-Sou estudante de **Ciência da Computação** (5º semestre) e atuo na área de **redes e telefonia**. Tenho interesse em tecnologia, programação e soluções que integram diferentes áreas da computação. Atualmente, estou focado em aprender e aplicar conhecimentos em **sistemas Linux, monitoramento de equipamentos e desenvolvimento de software**.
+Estudante de **Ciência da Computação (PUC Minas - 5º período)** e atuo com **Infraestrutura de Redes**. Tenho experiência prática com infraestrutura, suporte e monitoramento, além de interesse em programação e automação.
+
+Busco evoluir para áreas como **DevOps, automação e backend**, integrando conhecimentos de redes e infraestrutura com desenvolvimento.
 
 ## 🚀 No Que Estou Trabalhando
-- **Redes e Telefonia**: Configuração e manutenção de infraestruturas de rede e sistemas de telefonia.
-- **Monitoramento**: Utilizando ferramentas como **Zabbix** para monitoramento de sistemas e equipamentos.
-- **Sistemas Linux**: Explorando administração e configuração de sistemas baseados em Linux.
-
+- **Redes e Telefonia**: Configuração, suporte e manutenção de ambientes corporativos  
+- **Monitoramento**: Uso de **Zabbix** e **Grafana** para observabilidade de sistemas  
+- **Infraestrutura**: Atuação com servidores e ambientes Linux no dia a dia  
+- **Desenvolvimento**: Projetos acadêmicos e estudos em programação  
