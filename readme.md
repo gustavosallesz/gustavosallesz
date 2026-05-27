@@ -1,12 +1,22 @@
 # Olá! 👋 Eu sou o Luiz Gustavo
 
-## 🖥️ Sobre Mim
-Estudante de **Ciência da Computação (PUC Minas - 5º período)** e atuo com **Infraestrutura de Redes**. Tenho experiência prática com infraestrutura, suporte e monitoramento, além de interesse em programação e automação.
+🎓 Estudante de **Ciência da Computação na PUC Minas (5º período)**.
 
-Busco evoluir para áreas como **DevOps, automação e backend**, integrando conhecimentos de redes e infraestrutura com desenvolvimento.
+  Tenho experiência com **redes, suporte técnico e monitoramento de servidores**, além de interesse em programação, infraestrutura e automação.
 
-## 🚀 No Que Estou Trabalhando
-- **Redes e Telefonia**: Configuração, suporte e manutenção de ambientes corporativos  
-- **Monitoramento**: Uso de **Zabbix** e **Grafana** para observabilidade de sistemas  
-- **Infraestrutura**: Atuação com servidores e ambientes Linux no dia a dia  
-- **Desenvolvimento**: Projetos acadêmicos e estudos em programação  
+Atualmente:
+- Desenvolvendo projetos acadêmicos e pessoais para aprimorar minhas habilidades
+- Estudando programação, automação e infraestrutura
+- Explorando tecnologias voltadas para backend e bancos de dados
+
+## 🚀 Áreas que quero aprofundar
+- DevOps
+- Backend
+- Automação
+- Cloud e infraestrutura
+
+## 🛠️ Tecnologias e Ferramentas
+`Redes e Infraestrutura` `Linux` `Windows Server` `Zabbix e Grafana` `Git e GitHub`
+
+## 📫 Contato
+- LinkedIn: *https://www.linkedin.com/in/luiz-gustavo-salles-6437401b8/*
