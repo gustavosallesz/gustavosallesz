@@ -20,5 +20,5 @@ Atualmente:
 
 ## 📫 Contato
 - [LinkedIn Luiz Gustavo Salles](https://www.linkedin.com/in/luiz-gustavo-salles-6437401b8/)
-- E-mail: luizgustavo [at] gmail [dot] com
+- E-mail: luiz.gsallesz@gmail.com
 
