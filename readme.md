@@ -19,6 +19,6 @@ Atualmente:
 `Redes e Infraestrutura` `Linux` `Windows Server` `Zabbix e Grafana` `Git e GitHub`
 
 ## 📫 Contato
-- [LinkedIn Luiz Gustavo Salles](https://www.linkedin.com/in/luiz-gustavo-salles-6437401b8/)
+- LinkedIn: [Luiz Gustavo](https://www.linkedin.com/in/luizgustavo-sallesz/)
 - E-mail: luiz.gsallesz@gmail.com
 
