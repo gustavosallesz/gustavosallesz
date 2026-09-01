@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou o Luiz Gustavo
 
-🎓 Estudante de **Ciência da Computação na PUC Minas (5º período)**.
+🎓 Estudante de **Ciência da Computação na PUC Minas (6º período)**.
 
   Tenho experiência com **redes, suporte técnico e monitoramento de servidores**, além de interesse em programação, infraestrutura e automação.
 
