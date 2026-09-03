@@ -2,9 +2,9 @@
 
 🎓 Estudante de **Ciência da Computação na PUC Minas (6º período)**.
 
-🌐 **[Acesse meu portfólio](https://gustavosallesz.github.io/)** para conhecer minha trajetória e meus projetos.
+🌐 Clique aqui e acesse [meu portfólio web](https://gustavosallesz.github.io/) para conhecer minha trajetória e meus projetos.
 
-  Tenho experiência com **redes, suporte técnico e monitoramento de servidores**, além de interesse em programação, infraestrutura e automação.
+  Tenho experiência com **redes, suporte técnico e monitoramento de infraestrutura**, além de interesse em programação e automação.
 
 Atualmente:
 - Desenvolvendo projetos acadêmicos e pessoais para aprimorar minhas habilidades
