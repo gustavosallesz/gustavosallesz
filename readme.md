@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Ciência da Computação na PUC Minas (6º período)**.
 
-🌐 Clique aqui e acesse [meu portfólio web](https://gustavosallesz.github.io/) para conhecer minha trajetória e meus projetos.
+🌐 Clique aqui e acesse <a href="https://gustavosallesz.github.io/" target="_blank" rel="noopener noreferrer">meu portfólio web</a> para conhecer minha trajetória e meus projetos.
 
   Tenho experiência com **redes, suporte técnico e monitoramento de infraestrutura**, além de interesse em programação e automação.
 
@@ -23,7 +23,4 @@ Atualmente:
 ## 📫 Contato
 - LinkedIn: [Luiz Gustavo](https://www.linkedin.com/in/luizgustavo-sallesz/)
 - E-mail: luiz.gsallesz@gmail.com
-
-## 🔗 Projetos
-- [Central de projetos web](https://gustavosallesz.github.io/Projetos-HTML-CSS-JS/)
 
